@@ -21,7 +21,8 @@ main {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  gap: 30px;
+  grid-row-gap: 24px;
+  grid-column-gap: 30px;
 }
 
 @media (max-width: 768px) {
@@ -88,6 +89,7 @@ img.profile_img {
   font-size: 20px;
   line-height: 120%;
   color: #ffffff;
+  padding-top: 17px;
   padding-bottom: 16px;
 }
 
