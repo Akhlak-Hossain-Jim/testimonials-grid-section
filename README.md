@@ -1,5 +1,8 @@
 # Frontend Mentor - Testimonials grid section
 
+https://github.com/Akhlak-Hossain-Jim/testimonials-grid-section <br>
+https://akhlak-hossain-jim.github.io/testimonials-grid-section/
+
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
